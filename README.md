@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 Statistics
+
+<div align="center">
+  <a href="https://github.com/thiswallz"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiswallz&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiswallz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"/>
+</div>
