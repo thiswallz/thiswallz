@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="80px" />
+
 ## 📈 Statistics
 
 <div align="center">
