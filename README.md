@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/thiswallz"></a>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiswallz&hide=javascript,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="My GitHub Stats" />
+<a  href="https://wakatime.com"><img height="350em" src="https://wakatime.com/share/@thiswallz/271b031c-fc95-4f51-ac19-9d71236aea58.png" /></a>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiswallz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=thiswallz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"/>
 </div>
