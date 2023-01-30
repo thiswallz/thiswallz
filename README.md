@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/thiswallz"></a>
 
-<a  href="https://wakatime.com/@thiswallz"><img height="350em" src="https://wakatime.com/share/@thiswallz/c1245440-8154-4d65-82d2-7bacda6dabbe.png" /></a>
+<a  href="https://wakatime.com/@thiswallz"><img height="350em" src="https://wakatime.com/share/@thiswallz/160fda59-0eae-4f78-a539-b9e4160a0131.svg" /></a>
   
   <a href="https://wakatime.com/@thiswallz">
     <img height="350em" src="https://wakatime.com/share/@thiswallz/62a41aed-8aa9-496a-b28f-a2e9ab552847.png" />
