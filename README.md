@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/thiswallz"></a>
 
-<a  href="https://wakatime.com/@thiswallz"><img height="350em" src="https://wakatime.com/share/@thiswallz/160fda59-0eae-4f78-a539-b9e4160a0131.svg" /></a>
+<a  href="https://wakatime.com/@thiswallz"><img height="350em" src="https://wakatime.com/share/@thiswallz/04f5a2d0-3291-4c01-bd4b-812d4adc8150.svg" /></a>
   
   <a href="https://wakatime.com/@thiswallz">
-    <img height="350em" src="https://wakatime.com/share/@thiswallz/62a41aed-8aa9-496a-b28f-a2e9ab552847.png" />
+    <img height="350em" src="https://wakatime.com/share/@thiswallz/a6eb9ea2-0eae-46d3-9a50-f715bb3a7877.svg" />
   </a>
 <hr>
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=thiswallz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"/>
