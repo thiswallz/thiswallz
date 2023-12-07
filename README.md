@@ -26,7 +26,4 @@ Here are some ideas to get you started:
   <a href="https://wakatime.com/@thiswallz">
     <img height="350em" src="https://wakatime.com/share/@thiswallz/a6eb9ea2-0eae-46d3-9a50-f715bb3a7877.svg" />
   </a>
-<hr>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=thiswallz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula"/>
-  
 </div>
