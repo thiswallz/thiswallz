@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/thiswallz"></a>
 
-<a  href="https://wakatime.com/@thiswallz"><img height="350em" src="https://wakatime.com/share/@thiswallz/04f5a2d0-3291-4c01-bd4b-812d4adc8150.svg" /></a>
+<a  href="https://wakatime.com/@thiswallz"> </a>
 
 </div>
