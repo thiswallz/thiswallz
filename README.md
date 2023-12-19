@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 ## 📈 Statistics
 
 <div align="center">
-  <a href="https://github.com/thiswallz"></a>
+  <a href="https://github.com/thiswallz">
+    <img src="https://wakatime.com/share/@thiswallz/7768602d-0795-44ad-a482-b1b09d1be5f4.png" />
+  </a>
 
-<a  href="https://wakatime.com/@thiswallz"> </a>
+<a  href="https://wakatime.com/@thiswallz"> <img src="https://wakatime.com/share/@thiswallz/054e28cd-c136-4d50-a1fd-3e2dea3e171a.png" /></a>
 
 </div>
